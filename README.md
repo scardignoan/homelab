@@ -54,7 +54,7 @@ Remote access managed via **Tailscale VPN** — no services exposed to the publi
 - Exploited a backdoor service to obtain an unauthenticated root shell via netcat
 - Identified VNC running with no authentication as a critical misconfiguration
 
-### Planned
+
 - Wazuh SIEM for log aggregation and alert monitoring across lab VMs
 - Windows Server with Active Directory to simulate a corporate domain environment
 - VLAN segmentation to isolate attacker/target traffic from management network
